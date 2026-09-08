@@ -5,7 +5,6 @@ Created on Sun Mar 13 22:01:57 2022
 @author: Sergi
 """
 import numpy as np
-import matplotlib.pyplot as plt
 import string
 import re
 from unidecode import unidecode
